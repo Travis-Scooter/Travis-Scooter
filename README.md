@@ -9,7 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Travis-Scooter&theme=dark&hide_border=false)<br/>
 ![](http://github-readme-stats-travis-scooters-projects.vercel.app/api/top-langs/?username=Travis-Scooter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Travis-Scooter&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="DaniBoss" data-description="Support me on Buy me a coffee!" data-message="If you like what you see, and want to see more stuff, buy me a coffee so i can make even more amazing things!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
