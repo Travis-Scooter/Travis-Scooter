@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](http://github-readme-stats-travis-scooters-projects.vercel.app/api?username=Travis-Scooter&show_icons=true&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Travis-Scooter&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Travis-Scooter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-readme-stats-travis-scooters-projects.vercel.app/api?username=Travis-Scooter/api/top-langs/?username=Travis-Scooter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Travis-Scooter&icon=5&color=9)](https://visitcount.itsvg.in)
