@@ -11,4 +11,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Travis-Scooter&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="DaniBoss" data-description="Support me on Buy me a coffee!" data-message="If you like what you see, and want to see more stuff, buy me a coffee so i can make even more amazing things!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+# [If you like what you see, buy me a coffee!](https://www.buymeacoffee.com/DaniBoss)
