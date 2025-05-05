@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>🔭 I’m currently working on an idea manager desktop app: [Idea Manager](https://github.com/Travis-Scooter/Idea-Manager)<br>🌱 I’m currently learning JavaScript
+## Hi there 👋<br><br>🔭 I’m currently working on an idea manager desktop app: [Idea Manager](https://github.com/Travis-Scooter/Idea-Manager)<br>🌱 I’m currently learning JavaScript
 
 
 # 💻 Tech Stack:
@@ -11,4 +11,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Travis-Scooter&icon=5&color=9)](https://visitcount.itsvg.in)
 
-#### [If you like what you see, buy me a coffee!](https://www.buymeacoffee.com/DaniBoss)
+### [If you like what you see, buy me a coffee!](https://www.buymeacoffee.com/DaniBoss)
