@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋
 🔭 I’m currently working on a TODO app and a cozy videogame: [Idea Manager](https://github.com/Travis-Scooter/Idea-Manager), [Lumberjack](https://github.com/Travis-Scooter/Lumberjack-Game)
+
 🌱 I’m currently learning JavaScript
 
 
