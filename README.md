@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi there 👋<br><br>🔭 I’m currently working on an idea manager desktop app: [Idea Manager](https://github.com/Travis-Scooter/Idea-Manager)<br>🌱 I’m currently learning JavaScript
+## Hi there 👋
+🔭 I’m currently working on an idea manager desktop app: [Idea Manager](https://github.com/Travis-Scooter/Idea-Manager)<br>🌱 I’m currently learning JavaScript
 
 
 # 💻 Tech Stack:
